@@ -1,0 +1,15 @@
+{
+  "name": "radash-inclass",
+  "version": "1.0.0",
+  "description": "An activity repo to practice using utility libraries with radash as an example.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ashlyn Knox",
+  "license": "ISC",
+  "dependencies": {
+    "radash": "^12.1.0"
+  }
+}
